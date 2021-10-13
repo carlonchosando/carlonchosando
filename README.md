@@ -15,3 +15,4 @@ Sobre mí☀️, públicamente ❤️☕🍦🥃, puedo dejarte saber que no ten
 -Comercialización web desde 2006, venta de productos físicos y productos digitales.-
 -Compra de medios y campañas todas las plataformas.- 
 -Programación en U.T.N.(Front end developer)y U.N.N.O.B.A.(ingenieria informática) y Henry(Frontend & Backend), año próximo seguiré solo con U.N.N.O.B.A.y algun curso de seguridad informática.-
+-----------------------------------------------------🐧 no windou Here! 🤭 Sorry.
