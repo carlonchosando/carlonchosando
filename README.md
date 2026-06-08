@@ -1,23 +1,15 @@
-Antes: Desarrollador web
-Después: Experto en Docker con PhD en Troubleshooting
-Especialización: "Cómo hacer que un contenedor falle de 47 maneras diferentes"
+A lo largo de mi carrera he aprendido una verdad fundamental sobre los negocios: un equipo talentoso puede desangrar cualquier presupuesto si opera bajo flujos de trabajo manuales, lentos o desorganizados. Mi propósito es resolver ese dolor.
 
-✅ Docker Compose: Nivel Sufrimiento Avanzado
+Combino más de 10 años de experiencia en gestión de operaciones, logística y coordinación de clientes en empresas tecnológicas e infraestructura, con la capacidad técnica de desarrollar e implementar software a medida (Javascript, APIs, Odoo, n8n e Inteligencia Artificial).
 
-✅ Healthchecks: Especialista en Timeouts
+¿Qué valor aporto a las organizaciones?
 
-✅ Variables de Entorno: Master en Debugging
+✔ Automatización de Procesos: Conexión de herramientas mediante n8n, Zapier y APIs para eliminar tareas repetitivas y ahorrar cientos de horas operativas.
 
-✅ Entrypoint Override: Ninja Level
+✔ Especialización en ERP (Odoo): Configuración, gestión y despliegue de soluciones Odoo para integrar áreas técnicas, de compras y operativas.
 
-✅ PostgreSQL Connections: Experto en Errores Creativos
+✔ Integraciones con IA: Implementación práctica de modelos de lenguaje (GPTs/OpenAI) para la toma de decisiones automáticas, clasificación de datos y soporte.
 
+✔ Visión de Negocio: No escribo código de forma aislada; programo flujos seguros, eficientes y orientados a proteger el presupuesto del negocio.
 
-🏆 Certificaciones Obtenidas:
-
-"Sobreviviente de 1 mes de deployment fallido"
-
-"Resistencia mental ante 'container is unhealthy'"
-
-"Paciencia infinita con logs de Docker"
-
+Si tu empresa está perdiendo eficiencia y rentabilidad debido a procesos obsoletos o herramientas desconectadas, conversemos.
